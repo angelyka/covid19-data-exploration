@@ -9,4 +9,4 @@ Tools used:
 
 Link to dashboard: https://tinyurl.com/548fnfsa
 
-![covid-dashboard](https://ibb.co/ckNFD75)
+![covid-dashboard](https://i.ibb.co/ZGh8Wks/Dashboard-1-1.png)
