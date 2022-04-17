@@ -8,3 +8,5 @@ Tools used:
 - Tableau Public
 
 Link to dashboard: https://tinyurl.com/548fnfsa
+
+![covid-dashboard](https://ibb.co/ckNFD75)
